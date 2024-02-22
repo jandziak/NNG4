@@ -1,0 +1,1 @@
+{"version":1,"references":{"c:iGiveUpAx":{"usages":[],"definition":[5,6,5,15]},"c:Lean.Parser.Category.tactic":{"usages":[[12,16,12,22]],"definition":null},"c:Bool.false":{"usages":[[5,43,5,48]],"definition":null}},"module":"Game.Tactic.Xyzzy"}
