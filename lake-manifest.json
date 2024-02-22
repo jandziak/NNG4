@@ -67,7 +67,7 @@
    {"url": "https://github.com/jandziak/mathlib4.git",
     "type": "git",
     "subDir": null,
-    "rev": "c6c6117b8883f06c7e8ce2797185c65addec49a8",
+    "rev": "b6c05695867bf5a7cd968df563319d92c9cb9530",
     "name": "mathlib",
     "manifestFile": "lake-manifest.json",
     "inputRev": "v4.5.0",
