@@ -1,7 +1,6 @@
 import Game.Metadata
 import Game.MyNat.LE
 import Game.Tactic.Use
---import Mathlib.Tactic.Ring
 
 
 World "Inequality"
